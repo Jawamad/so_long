@@ -45,6 +45,7 @@ void	*select_move_sprite(t_data *data, t_pos *new_pos)
 {
 	void	*sprite;
 
+	sprite = NULL;
 	if (data->map_data.p_pos.x < new_pos->x)
 		sprite = data->img.p_face_f1;
 	else if (data->map_data.p_pos.x > new_pos->x)
