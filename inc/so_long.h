@@ -6,7 +6,7 @@
 /*   By: flmuller <flmuller@student.42perpignan.    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/05/22 14:38:43 by flmuller          #+#    #+#             */
-/*   Updated: 2024/07/01 12:04:52 by flmuller         ###   ########.fr       */
+/*   Updated: 2024/07/01 14:01:12 by flmuller         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -15,7 +15,7 @@
 
 # include "../libft/libft.h"
 # include "../ft_printf/ft_printf.h"
-# include "../mlx/mlx.h"
+# include "../mlx_linux/mlx.h"
 # include <fcntl.h>
 # include <errno.h>
 
